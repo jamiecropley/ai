@@ -1,0 +1,9 @@
+# macOS Finder-specific files
+.DS_Store
+
+# Alias shortcut on macOS
+/learningpythonbooks
+
+# Prevent adding .Spotlight-V100 and .Trashes if working on external drives
+.Spotlight-V100
+.Trashes
