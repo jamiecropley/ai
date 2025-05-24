@@ -2,7 +2,9 @@
 .DS_Store
 
 # Alias shortcut on macOS
+/learningaibooks
 /learningpythonbooks
+/learningrustbooks
 
 # Prevent adding .Spotlight-V100 and .Trashes if working on external drives
 .Spotlight-V100
